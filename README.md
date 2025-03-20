@@ -1,5 +1,5 @@
 # WP1
-Market analysis and contest conception
+Work Package 1 - Market analysis and contest conception
 
 The chip design competition "Open Chip Design Challenge Prototype" (DI-OCDCPro) aims to inspire students to engage with the forward-looking field of microchip design, introducing them to fundamental concepts as well as current industry challenges in a hands-on manner. A strong emphasis is placed on a consistent open-source approach, interdisciplinary collaboration, and creative innovation.
 
