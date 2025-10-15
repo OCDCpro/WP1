@@ -5,25 +5,41 @@
 *Erstellt im Rahmen des Förderprojektes „Open Chip Design Challenge Prototype“ (DI-OCDCPro)*
 
 ## Inhaltsverzeichnis
-- [1. Vorbemerkung](#1-vorbemerkung)
-- [1.1. Wettbewerbsziele](#11-wettbewerbsziele)
-- [1.2. Wettbewerbszielgruppen](#12-wettbewerbszielgruppen)
-- [2. Kurzzusammenfassung der Marktanalyse](#2-kurzzusammenfassung-der-marktanalyse)
-- [2.1. Zusammenfassung](#21-zusammenfassung)
-- [2.2. Implementierung der Ergebnisse in das Wettbewerbskonzept](#22-implementierung-der-ergebnisse-in-das-wettbewerbskonzept)
-- [3. Wettbewerbsumsetzung](#3-wettbewerbsumsetzung)
-- [3.1. Wettbewerbssystematik](#31-wettbewerbssystematik)
-- [3.2. Definition der Teilnahmebedingungen](#32-definition-der-teilnahmebedingungen)
-- [3.3. Zusammensetzung der Jury](#33-zusammensetzung-der-jury)
-- [3.4. Aufgabenerstellung](#34-aufgabenerstellung)
-- [3.5. Aufgabenveröffentlichung und Ansprache von Teilnehmenden](#35-aufgabenveröffentlichung-und-ansprache-von-teilnehmenden)
-- [3.6. Bewertungssystematik und -kriterien](#36-bewertungssystematik-und--kriterien)
-- [3.7. Abschlussveranstaltung zur Ehrung der Preisträger*innen](#37-abschlussveranstaltung-zur-ehrung-der-preistragerinnen)
-- [3.8. Wettbewerbszyklen](#38-wettbewerbszyklen)
-- [3.9. Anreizstruktur](#39-anreizstruktur)
-- [4. Kommunikation](#4-kommunikation)
-- [4.1. Studierenden-Ansprache](#41-studierenden-ansprache)
-- [4.2. Lehrenden-Ansprache (Hochschulen)](#42-lehrenden-ansprache-hochschulen)
+[**1. Vorbemerkung**](#1-vorbemerkung)
+> [1.1. Wettbewerbsziele](#11-wettbewerbsziele)
+>
+> [1.2. Wettbewerbszielgruppen](#12-wettbewerbszielgruppen)
+
+[**2. Kurzzusammenfassung der Marktanalyse**](#2-kurzzusammenfassung-der-marktanalyse)
+
+>[2.1. Zusammenfassung](#21-zusammenfassung)
+>
+>[2.2. Implementierung der Ergebnisse in das Wettbewerbskonzept](#22-implementierung-der-ergebnisse-in-das-wettbewerbskonzept)
+
+[**3. Wettbewerbsumsetzung**](#3-wettbewerbsumsetzung)
+
+> [3.1. Wettbewerbssystematik](#31-wettbewerbssystematik)
+>
+> [3.2. Definition der Teilnahmebedingungen](#32-definition-der-teilnahmebedingungen)
+>
+> [3.3. Zusammensetzung der Jury](#33-zusammensetzung-der-jury)
+>
+> [3.4. Aufgabenerstellung](#34-aufgabenerstellung)
+>
+> [3.5. Aufgabenveröffentlichung und Ansprache von Teilnehmenden](#35-aufgabenveröffentlichung-und-ansprache-von-teilnehmenden)
+>
+> [3.6. Bewertungssystematik und -kriterien](#36-bewertungssystematik-und--kriterien)
+>
+> [3.7. Abschlussveranstaltung zur Ehrung der Preisträger*innen](#37-abschlussveranstaltung-zur-ehrung-der-preistragerinnen)
+>
+> [3.8. Wettbewerbszyklen](#38-wettbewerbszyklen)
+>
+> [3.9. Anreizstruktur](#39-anreizstruktur)
+
+[**4. Kommunikation**](#4-kommunikation)
+> [4.1. Studierenden-Ansprache](#41-studierenden-ansprache)
+>
+>[4.2. Lehrenden-Ansprache (Hochschulen)](#42-lehrenden-ansprache-hochschulen)
 
 
 ## 1. Vorbemerkung 
